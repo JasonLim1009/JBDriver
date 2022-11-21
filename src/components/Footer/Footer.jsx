@@ -17,7 +17,7 @@ const Footer = () => {
           <p>🗺️ Johor Bahru, Malaysia <br /> <a href="tel:+60 17 750 3964">📞 +6017 750 3964</a> <br /> <a href="mailto:jbdrive43@gmail.com">📧 jbdrive43@gmail.com</a> <br />⌚ Monday to Sunday : 24Hour</p>
         </div>
         {/* <span>jbdrive43@gmail.com</span> */}
-        <p>&copy;COPYRIGHT 2022<span> | Created By <a href="#">JBDrive</a></span> | ALL RIGHTS RESERVED | POWERED BY SYSTEM</p>
+        <p>&copy;COPYRIGHT 2022<span> | Created By <a href="#">QQDriver</a></span> | ALL RIGHTS RESERVED | POWERED BY SYSTEM</p>
       </div>
     </div>
   );
