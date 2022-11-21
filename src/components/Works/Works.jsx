@@ -18,7 +18,7 @@ const Works = () => {
       <div className="w-left">
         <div className="awesomes">
           <span style={{ color: darkMode ? "white" : "" }}>
-            JBDrive is a Malaysia driver booking platform that <br />offers convenient and reliable designated driver services.
+            QQDriver is a Malaysia driver booking platform that <br />offers convenient and reliable designated driver services.
           </span>
           <span>We focus on providing a safe and enjoyable experience to <br />our customers anytime, anywhere.</span>
           <spane>
