@@ -22,7 +22,7 @@ const Services = () => {
         <span style={{ color: darkMode ? "white" : "" }}>About Us</span>
         <span>services</span>
         <spane>
-          JBDrive offers designated driver services that are convenient, safe, and reliable.
+          QQDriver offers designated driver services that are convenient, safe, and reliable.
           <br />
           You no longer have to worry about driving home after having a fun night out,
           <br />
