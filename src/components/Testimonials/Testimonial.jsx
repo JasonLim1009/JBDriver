@@ -22,19 +22,19 @@ const Testimonial = () => {
       img: woman,
       name: "Erisa Ezza",
       review:
-        "I sometimes have light drinking with clients for business purposes. Last time I booked JBDrive service to send me back home. I found a lovely service provided by this company. Thanks for saving me from saman.",
+        "I sometimes have light drinking with clients for business purposes. Last time I booked QQDriver service to send me back home. I found a lovely service provided by this company. Thanks for saving me from saman.",
     },
     {
       img: woman2,
       name: "Michelle Aadhya Rajesh",
       review:
-        "We had a girl’s night out and tried JBDrive for the first time. The experience was amazing and perfect. The driver was extremely friendly and polite.",
+        "We had a girl’s night out and tried QQDrive for the first time. The experience was amazing and perfect. The driver was extremely friendly and polite.",
     },
     {
       img: man2,
       name: "Deric Ong",
       review:
-        "Excellent choice! Professional, punctual and very reliable. I would highly recommend JBDrive to anyone seeking a designated driver service.",
+        "Excellent choice! Professional, punctual and very reliable. I would highly recommend QQDrive to anyone seeking a designated driver service.",
     },
     {
       img: girl3,
